@@ -1,7 +1,7 @@
 module.exports = {
   profile: {
     ownerName: "", // defult: AiDarkEzio
-    ownerNumb: "", // defult: 94705613713 
+    ownerNumb: "", // defult: 94705613713
     botName: "", // defult: Whats Bot MD
   },
   reply: {
